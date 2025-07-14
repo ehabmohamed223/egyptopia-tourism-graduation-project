@@ -1,0 +1,51 @@
+Scenario,Categories,Cities,Tourism_Types,Precision@k,Preference_Coverage@k,Category_Diversity,Tourism_Type_Diversity
+1,"Garden, Library, Beach, Healing Oases & Sand Therapy, Island, Mountain","El Gouna, Qena, Sohag, Beheira, New Valley","Religious and Spiritual Attractions, Cultural and Historical Attractions",1.0,0.8461538461538461,0.8809523809523809,0.6428571428571428
+2,"Water Park, Theater, Natural Reserve, Monastery, Island, Garden","Red Sea, Cairo, Sharm El Sheikh",Medical Attractions,1.0,1.0,0.8095238095238095,0.6071428571428572
+3,"Fortress, Mosque, Synagogue, Garden","Qena, Sharqia, Beheira, Alexandria","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.8,0.8928571428571428,0.8571428571428572
+4,"Theme Park, Temple, Tomb, Mosque, Shopping","Fayoum, Assiut, Aswan","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.8,0.8428571428571429,0.7857142857142857
+5,"Beach, Fortress, Rehabilitation & Wellness Center, Theme Park, Museum, Cultural Center","Sohag, Sharm El Sheikh, Cairo, North Coast, Fayoum",Entertainment and Modern Attractions,1.0,0.75,0.8095238095238095,0.6428571428571428
+6,"Mountain, Beach, Tomb, Museum, Shopping","Marsa Matrouh, Suez, Red Sea, Assiut, Cairo, North Coast",Medical Attractions,1.0,0.8333333333333334,0.8642857142857143,0.5714285714285714
+7,"Temple, Museum, Mountain","Cairo, Aswan, Fayoum",Religious and Spiritual Attractions,1.0,0.8571428571428571,0.8452380952380952,0.6071428571428572
+8,"Water Park, Rehabilitation & Wellness Center, Zoo, Mountain, Hot Spring","Marsa Matrouh, Red Sea, Sohag","Natural Attractions, Religious and Spiritual Attractions",1.0,0.9,0.7714285714285714,0.6071428571428571
+9,"Mountain, Library, Mosque, Historical Site, Tower","Alexandria, Qena, Red Sea, Luxor","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.9090909090909091,0.9,0.75
+10,"Fortress, Shopping, Museum, Rehabilitation & Wellness Center","Fayoum, Minya, Aswan",Entertainment and Modern Attractions,1.0,0.875,0.8928571428571428,0.6785714285714286
+11,"Zoo, Shopping, Church, Tower, Rehabilitation & Wellness Center, Garden, Beach","Assiut, Qena, Beheira",Cultural and Historical Attractions,0.9285714285714286,0.9090909090909091,0.7857142857142858,0.6071428571428572
+12,"Library, Mosque, Garden","Sinai, Sohag, Red Sea, New Valley",Natural Attractions,0.9285714285714286,0.625,0.8571428571428571,0.6071428571428572
+13,"Theme Park, Temple, Shopping, Mosque, Hot Spring","Qena, Sinai, Fayoum, Minya, Assiut","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.75,0.9,0.7857142857142857
+14,"Mountain, Aquarium, Garden, Natural Reserve","Aswan, Qena, Marsa Matrouh, Fayoum, Giza","Cultural and Historical Attractions, Natural Attractions",1.0,0.7272727272727273,0.8928571428571428,0.6428571428571428
+15,"Aquarium, Palace, Church, Synagogue, Museum","Suez, Assiut, Alexandria, New Valley",Religious and Spiritual Attractions,1.0,0.8,0.9,0.75
+16,"Historical Site, Natural Reserve, Museum, Beach, Shopping, Island","Marsa Matrouh, Giza, Sohag, Beheira, Sharm El Sheikh","Entertainment and Modern Attractions, Natural Attractions",1.0,0.9230769230769231,0.9285714285714285,0.8571428571428571
+17,"Healing Oases & Sand Therapy, Museum, Church","Marsa Alam, Alexandria, Beni Suef, Aswan, Cairo",Medical Attractions,1.0,0.6666666666666666,0.9047619047619048,0.7142857142857143
+18,"Aquarium, Museum, Shopping, Natural Reserve, Palace, Water Park","Suez, Red Sea, Sharqia, Beni Suef, North Coast, Minya","Religious and Spiritual Attractions, Cultural and Historical Attractions",1.0,0.9285714285714286,0.9285714285714285,0.7142857142857143
+19,"Tower, Shopping, Museum","Sohag, New Valley, Alexandria, Marsa Alam",Natural Attractions,0.9285714285714286,0.75,0.8571428571428571,0.6071428571428572
+20,"Aquarium, Mountain, Museum, Library, Synagogue, Theater, Mosque","Dahab, El Gouna, Sinai, Cairo, Red Sea","Religious and Spiritual Attractions, Cultural and Historical Attractions",1.0,0.8571428571428571,0.8571428571428572,0.8571428571428572
+21,"Palace, Aquarium, Theater, Historical Site, Shopping","Giza, Sharqia, Beheira, North Coast",Religious and Spiritual Attractions,0.9285714285714286,0.8,0.8428571428571429,0.6071428571428572
+22,"Mountain, Rehabilitation & Wellness Center, Historical Site, Church","Marsa Matrouh, Red Sea, Fayoum, Suez","Entertainment and Modern Attractions, Natural Attractions",1.0,0.7,0.8928571428571428,0.6428571428571428
+23,"Hot Spring, Zoo, Mountain, Fortress, Beach","Beni Suef, Red Sea, Aswan, Sinai","Medical Attractions, Natural Attractions",1.0,0.9090909090909091,0.7714285714285715,0.8571428571428572
+24,"Theme Park, Water Park, Shopping, Natural Reserve, Island","Alexandria, Marsa Alam, Giza",Cultural and Historical Attractions,1.0,1.0,0.8571428571428572,0.6071428571428572
+25,"Library, Museum, Theater, Rehabilitation & Wellness Center, Cultural Center, Beach","Sinai, Fayoum, Beheira, Cairo","Religious and Spiritual Attractions, Natural Attractions",1.0,0.9166666666666666,0.8095238095238095,0.6428571428571428
+26,"Beach, Historical Site, Rehabilitation & Wellness Center, Tower, Fortress, Synagogue, Palace","Assiut, Marsa Matrouh, Sohag, Dahab","Religious and Spiritual Attractions, Cultural and Historical Attractions",1.0,1.0,0.7142857142857144,0.75
+27,"Palace, Church, Shopping, Mosque, Water Park","Hurghada, Aswan, Sharm El Sheikh, Sharqia",Natural Attractions,1.0,0.9,0.8571428571428572,0.6071428571428572
+28,"Synagogue, Water Park, Monastery, Church","Beni Suef, Dahab, New Valley, North Coast, Alexandria","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.7272727272727273,0.9285714285714286,0.7142857142857143
+29,"Natural Reserve, Synagogue, Fortress, Theme Park, Hot Spring","Minya, Giza, Sharm El Sheikh, Red Sea, Hurghada, Luxor",Medical Attractions,1.0,0.8333333333333334,0.8428571428571429,0.6428571428571428
+30,"Theater, Palace, Tomb","Sinai, Minya, Giza","Cultural and Historical Attractions, Natural Attractions",1.0,0.75,0.7976190476190476,0.5
+31,"Mosque, Theater, Library, Historical Site","North Coast, Assiut, Sohag, Marsa Alam, Giza, Luxor",Medical Attractions,1.0,0.7272727272727273,0.8214285714285714,0.6071428571428572
+32,"Church, Zoo, Fortress, Historical Site","Qena, Beni Suef, New Valley, Sharqia","Cultural and Historical Attractions, Religious and Spiritual Attractions",1.0,0.8,0.9285714285714286,0.8928571428571428
+33,"Healing Oases & Sand Therapy, Theme Park, Palace, Garden, Library, Zoo","Giza, Assiut, Qena, Marsa Matrouh",Cultural and Historical Attractions,1.0,0.9090909090909091,0.8809523809523809,0.6785714285714286
+34,"Natural Reserve, Island, Hot Spring, Temple, Zoo, Monastery","Giza, Dahab, Sohag, Sinai, Luxor, Assiut",Entertainment and Modern Attractions,1.0,0.8461538461538461,0.9285714285714285,0.6428571428571428
+35,"Fortress, Palace, Historical Site, Water Park, Aquarium, Healing Oases & Sand Therapy","Marsa Matrouh, Beheira, Sohag, Cairo","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.9166666666666666,0.9285714285714285,0.6428571428571428
+36,"Library, Monastery, Healing Oases & Sand Therapy, Synagogue","New Valley, Sohag, Red Sea, El Gouna, Sharm El Sheikh, Fayoum",Entertainment and Modern Attractions,0.9285714285714286,0.7272727272727273,0.8214285714285714,0.6071428571428572
+37,"Tower, Natural Reserve, Palace, Theme Park","Suez, Qena, Sinai, Hurghada, El Gouna","Cultural and Historical Attractions, Entertainment and Modern Attractions",1.0,0.7272727272727273,0.9285714285714286,0.8214285714285714
+38,"Fortress, Temple, Museum, Theme Park, Library","Fayoum, Qena, Marsa Matrouh",Entertainment and Modern Attractions,1.0,0.8888888888888888,0.8285714285714285,0.6428571428571428
+39,"Palace, Theme Park, Shopping, Historical Site, Garden","Red Sea, Sharm El Sheikh, Giza, Suez","Religious and Spiritual Attractions, Entertainment and Modern Attractions",1.0,0.9090909090909091,0.9,0.7142857142857142
+40,"Cultural Center, Fortress, Museum","Sohag, Fayoum, Marsa Alam, Qena, Red Sea, Sharm El Sheikh","Entertainment and Modern Attractions, Religious and Spiritual Attractions",1.0,0.6363636363636364,0.8809523809523809,0.5714285714285714
+41,"Island, Theater, Mountain, Monastery, Library","Beheira, Qena, Sinai, Giza, Alexandria","Natural Attractions, Entertainment and Modern Attractions",1.0,0.75,0.7571428571428571,0.7142857142857143
+42,"Shopping, Island, Historical Site, Temple, Water Park, Zoo","Sohag, Sharm El Sheikh, Giza","Entertainment and Modern Attractions, Natural Attractions",1.0,0.9090909090909091,0.9285714285714285,0.7857142857142857
+43,"Natural Reserve, Mosque, Cultural Center, Aquarium, Shopping, Zoo","Marsa Matrouh, Dahab, Fayoum, North Coast, Beni Suef, Cairo","Cultural and Historical Attractions, Medical Attractions",1.0,0.8571428571428571,0.8809523809523809,0.6071428571428571
+44,"Tower, Rehabilitation & Wellness Center, Shopping","Suez, Hurghada, Red Sea, Sohag","Entertainment and Modern Attractions, Cultural and Historical Attractions",1.0,0.6666666666666666,0.9047619047619048,0.6071428571428572
+45,"Hot Spring, Aquarium, Fortress, Healing Oases & Sand Therapy, Zoo, Historical Site, Mountain","Suez, Alexandria, Marsa Matrouh, Giza, Qena",Medical Attractions,1.0,0.8461538461538461,0.8571428571428572,0.6428571428571428
+46,"Natural Reserve, Island, Theme Park, Museum, Water Park, Cultural Center, Tomb","Beheira, Fayoum, Assiut",Religious and Spiritual Attractions,1.0,1.0,0.7857142857142858,0.5714285714285714
+47,"Theme Park, Mountain, Temple, Garden, Church, Synagogue, Natural Reserve","Assiut, Minya, Aswan, Beheira","Medical Attractions, Entertainment and Modern Attractions",1.0,0.7692307692307693,0.7142857142857143,0.6428571428571428
+48,"Synagogue, Shopping, Museum, Theme Park","Dahab, Suez, Beni Suef",Cultural and Historical Attractions,1.0,0.625,0.9285714285714286,0.6785714285714286
+49,"Island, Tower, Synagogue, Temple, Church, Theme Park, Tomb","Sharqia, Hurghada, Giza, Cairo",Entertainment and Modern Attractions,1.0,0.9166666666666666,0.7142857142857143,0.75
+50,"Water Park, Tower, Historical Site, Aquarium, Healing Oases & Sand Therapy, Mosque","Hurghada, Sohag, Fayoum",Entertainment and Modern Attractions,1.0,0.8,0.8809523809523809,0.75
