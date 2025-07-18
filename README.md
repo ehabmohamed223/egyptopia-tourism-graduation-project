@@ -32,19 +32,24 @@ Findings indicated that while these applications provide basic informational con
 [View the full Competitor Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/product-analysis-report-for-egyptopia/competitor_%20analysis_report_for_egyptopia.pdf)
 
 ---
-## **Survey Analysis**
+## **2.Survey Analysis**
 
 - **Objective**: Analyzes a survey of 82 participants to understand tourist preferences.
 
-- **Key Insights**:
-  - **Gender**: 44 females, 38 males (23 Egyptians, 59 foreigners).
-  - **Age**: 78% (18–29), 17% (30–49), 3.6% (50+), 1.22% (<18).
-  - **Interests**: 57.32% very interested in local interaction, 42% in beaches.
-  - **App Demand**: 56 want a guiding app, 70 prefer travel tips.
-
-- **Tools**: Python (pandas, numpy, plotly) for visualizations (pie charts, bar graphs).
+- **Tools**: Python (pandas, numpy, plotly) for visualizations.
 
 - **Role**: Conducted comprehensive data analysis and designed targeted survey questions to enhance user experience.
+
+- **Key Insights**:
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/884b73a2-e93b-4fda-bcab-f3b1afc7e3d4" alt="Image 1" width="220" />
+  <img src="https://github.com/user-attachments/assets/d68324d3-2f5e-4e9d-b0e3-a331b06cf9f6" alt="Image 2" width="220" />
+  <img src="https://github.com/user-attachments/assets/15317b9c-679a-40fb-bb6f-e87bbf9b8ebb" alt="Image 3" width="220" />
+  <img src="https://github.com/user-attachments/assets/752f72c6-2b08-4202-a245-003a26fd1576" alt="Image 4" width="220" />
+</p>
+
+The full survey findings are documented in the [Egyptopia User Needs Survey Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia-user-needs-survey-analysis/report_of_egyptopia_survey_analysis.pdf).
 
 ---
 
