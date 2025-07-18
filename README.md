@@ -13,6 +13,10 @@ The platform integrates multiple recommendation strategies, including content-ba
 
 A **competitor analysis** was conducted on six mobile applications dedicated exclusively to tourism in Egypt: **Around Egypt**, **Explore Egypt**, **Civitatis Egypt**, **Visit Egypt**, **Cairo Travel Guide**, and **Experience Egypt**. The objective was to assess their core features, usability, and overall effectiveness in supporting the tourist experience.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/322f8c99-7f84-46e7-a2ea-7aeb975e685c" alt="Egyptopia Feature Comparison Table" width="800" />
+</p>
+
 The evaluation focused on several key aspects, including:
 - Functional features and tourism-related services  
 - User interface (UI) and design quality  
