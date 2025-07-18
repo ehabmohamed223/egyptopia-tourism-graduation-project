@@ -21,17 +21,13 @@ The evaluation focused on several key aspects, including:
 
 Findings indicated that while these applications provide basic informational content and cultural overviews, they generally lack advanced features such as personalized recommendations, intelligent filtering, interactive experiences, or dynamic content updates. In many cases, the visual design was outdated, and the platforms lacked support for diverse tourism types or localized experiences.
 
-These insights directly informed the design of **Egyptopia**, which addresses the identified limitations by introducing:
-- AI-driven personalized and non-personalized recommendations  
-- Location-based suggestions  
-- A budget-aware itinerary planner  
-- Advanced filtering options by city, tourism type, and category  
-- A modern, intuitive user interface  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/faa852d4-3357-4dc4-b483-bd9232831d31" alt="Competitor Analysis Screenshot" width="500" />
+</p>
 
-[View Competitor Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/product-analysis-report-for-egyptopia/competitor_%20analysis_report_for_egyptopia.pdf)
+[View the full Competitor Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/product-analysis-report-for-egyptopia/competitor_%20analysis_report_for_egyptopia.pdf)
 
 ---
-
 ## **Survey Analysis**
 
 - **Objective**: Analyzes a survey of 82 participants to understand tourist preferences.
