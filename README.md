@@ -57,15 +57,14 @@ The full survey findings are documented in the [Egyptopia User Needs Survey Anal
 
 - **Objective**: Outlines the schema for storing Egyptopia data.
 
-- **Components**:
-  - **Places Table**: Includes name, category, place_id, Google Maps link, rate, total rates.
-  - **Food & Drinks Table**: Item ID, Arabic/English names, classification, description.
-  - **Events Table**: Event name, description, location, date, ticket price, organizer.
-  - **Activities Table**: Title, rating, price, link, activity type.
-
-- **Notes**: Supports 320 places, 50 food items, 362 activities, and dynamic events.
-
 - **Role**: Designed the database architecture to ensure efficient data relationships.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b90d3a51-cbb0-40c1-b966-2aeaf71858d4" alt="Egyptopia Screenshot" width="600" />
+</p>
+
+The data architecture for Egyptopia is documented in a visual schema file.  
+[Download Egyptopia Schema (.drawio)](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia_database_schema/egyptopia_schema.drawio)
 
 ---
 
@@ -78,6 +77,8 @@ The full survey findings are documented in the [Egyptopia User Needs Survey Anal
   - **Food & Drinks**: 50 items (16 Main Dishes, 12 Desserts, etc.).
   - **Events**: Static events (e.g., Sun Alignment at Abu Simbel) with admin updates.
   - **Activities**: 362 activities (e.g., Balloon Tours, Diving) via web scraping.
+
+- **Notes**: Supports 320 places, 50 food items, 362 activities, and dynamic events.
 
 - **Methods**: Web scraping, CSV storage, Pandas DataFrame.
 
