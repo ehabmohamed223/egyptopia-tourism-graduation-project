@@ -53,7 +53,7 @@ The full survey findings are documented in the [Egyptopia User Needs Survey Anal
 
 ---
 
-## **Database Design**
+## **3.Database Design**
 
 - **Objective**: Outlines the schema for storing Egyptopia data.
 
@@ -68,21 +68,39 @@ The data architecture for Egyptopia is documented in a visual schema file.
 
 ---
 
-## **Data Collection**
+## **4.Data Collection**
+
+- **Role**: Collected extensive data on tourist attractions, activities, and Egyptian cuisines/beverages, and processed it for database integration.
 
 - **Objective**: Gathers comprehensive datasets for Egyptopia.
-
-- **Datasets**:
-  - **Places**: 320 sites across 5 categories, 2,377 images.
-  - **Food & Drinks**: 50 items (16 Main Dishes, 12 Desserts, etc.).
-  - **Events**: Static events (e.g., Sun Alignment at Abu Simbel) with admin updates.
-  - **Activities**: 362 activities (e.g., Balloon Tours, Diving) via web scraping.
 
 - **Notes**: Supports 320 places, 50 food items, 362 activities, and dynamic events.
 
 - **Methods**: Web scraping, CSV storage, Pandas DataFrame.
 
-- **Role**: Collected extensive data on tourist attractions, activities, and Egyptian cuisines/beverages, and processed it for database integration.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/796d2823-bfdd-4a75-9a27-6e94a111fee9" alt="Image 1" width="480" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d8a84e05-d1dc-4df7-8859-6230a51a8685" alt="Image 2" width="480" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4a72ed99-03be-4d9f-a92e-f8ca69ed46a7" alt="Image 3" width="480" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a8b614e7-a73c-4c92-85fc-70b75d95c070" alt="Image 4" width="480" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
