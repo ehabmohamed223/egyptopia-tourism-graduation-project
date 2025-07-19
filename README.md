@@ -124,17 +124,3 @@ For a complete overview of the data sources, scraping pipelines, and integration
     Developed simulations to evaluate the recommendation system’s performance based on user inputs, optimizing its effectiveness.
 
 ---
-
-## **Features**
-
-- **User Preferences**: Tailored recommendations from the start.
-- **Tourism Classification**: 5 types with flexible filters.
-- **Price Range Filtering**: Budget-based activity selection.
-- **Static Events**: Curated with dynamic updates.
-- **Egyptian Cuisine**: 50 iconic items showcased.
-- **Nearby Places & Budget Planner**: Enhanced itinerary tools.
-- **Notifications**: Alerts for events and discounts.
-
----
-
----
