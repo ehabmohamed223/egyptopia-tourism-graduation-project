@@ -104,18 +104,24 @@ For a complete overview of the data sources, scraping pipelines, and integration
 
 ---
 
-## **5.Recommendation System**
+## **5. Recommendation System**
 
 - **Objective**: Delivers personalized travel suggestions.
 
-- **Features**:
-  - Content-based system to surface lesser-known attractions aligned with user interests, with novel suggestions to encourage exploration.
-  - Non-personalized system using Bayesian average scores by tourism type.
-  - Location-based system for nearby attractions.
+- **Role**:  
+  Engineered a multi-faceted recommendation system that integrates various intelligent techniques to enhance user experience and promote exploration:
 
-- **Development**: Engineered the multi-faceted system and simulated user behavior to optimize performance.
+  - **Content-Based Recommendation System**  
+    Designed to highlight lesser-known attractions that align with the user’s interests by placing them alongside popular destinations. It also introduces novel and diverse suggestions that slightly diverge from the user’s typical preferences to foster discovery and increase engagement.
 
-- **Role**: Developed the recommendation system, including all three approaches and performance simulations.
+  - **Non-Personalized Recommendation System**  
+    Utilizes **Bayesian average scores** to promote attractions by tourism type, ensuring fair promotion of places regardless of the number of ratings.
+
+  - **Location-Based Recommendation System**  
+    Displays nearby attractions based on user-selected locations, helping users discover points of interest relative to their current or chosen area.
+
+  - **User Behavior Simulation**  
+    Developed simulations to evaluate the recommendation system’s performance based on user inputs, optimizing its effectiveness.
 
 ---
 
