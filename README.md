@@ -123,4 +123,7 @@ For a complete overview of the data sources, scraping pipelines, and integration
   - **User Behavior Simulation**  
     Developed simulations to evaluate the recommendation system’s performance based on user inputs, optimizing its effectiveness.
 
+[View the Egyptopia Recommendation System Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia-recommendation-system/egyptopia_recommendation_system_report-compressed.pdf)
+
+
 ---
