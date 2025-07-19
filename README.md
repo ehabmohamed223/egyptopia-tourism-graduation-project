@@ -2,14 +2,18 @@
 
 ## **Overview**
 
-Egyptopia is a smart travel recommendation system designed to enhance the tourism experience in Egypt by offering personalized suggestions based on user preferences and behavior. The system leverages artificial intelligence and a curated tourism dataset to recommend attractions that go beyond the typical tourist spots, helping users discover both popular landmarks and hidden gems.
-The platform integrates multiple recommendation strategies, including content-based filtering, location-based suggestions, and a Bayesian average method to support new users. Additional features include an itinerary planner tailored to user budgets, a generative AI chatbot trained on Egypt-related data, and advanced filters by city and attraction type. To further enrich the experience, Egyptopia also offers cultural quizzes and a guide to traditional Egyptian food and beverages
+Egyptopia is a smart travel recommendation system designed to enhance the tourism experience in Egypt by offering personalized suggestions based on user preferences and behavior. The system leverages artificial intelligence and a curated tourism dataset to recommend attractions that go beyond the typical tourist spots, helping users discover both popular landmarks and hidden gems.  
+The platform integrates multiple recommendation strategies, including content-based filtering, location-based suggestions, and a Bayesian average method to support new users. Additional features include an itinerary planner tailored to user budgets, a generative AI chatbot trained on Egypt-related data, and advanced filters by city and attraction type. To further enrich the experience, Egyptopia also offers cultural quizzes and a guide to traditional Egyptian food and beverages.
 
+---
 
 ## **Project Structure**
-"This repository contains the foundational components, including AI-driven data pipelines, documentation, and structured datasets, that support the Egyptopia smart recommendation engine."
 
-### 1.**Competitor Analysis**
+> This repository contains the foundational components, including AI-driven data pipelines, documentation, and structured datasets, that support the Egyptopia smart recommendation engine.
+
+---
+
+### **1. Competitor Analysis**
 
 A **competitor analysis** was conducted on six mobile applications dedicated exclusively to tourism in Egypt: **Around Egypt**, **Explore Egypt**, **Civitatis Egypt**, **Visit Egypt**, **Cairo Travel Guide**, and **Experience Egypt**. The objective was to assess their core features, usability, and overall effectiveness in supporting the tourist experience.
 
@@ -32,18 +36,13 @@ Findings indicated that while these applications provide basic informational con
 [View the full Competitor Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/product-analysis-report-for-egyptopia/competitor_%20analysis_report_for_egyptopia.pdf)
 
 ---
-## **2.Survey Analysis**
 
+### **2. Survey Analysis**
 
-- **Objective**: Analyzes a survey of 82 participants to understand tourist preferences.
-
-- **My Role**: Conducted comprehensive data analysis and designed targeted survey questions to enhance user experience.
-
+- **Objective**: Analyzes a survey of 82 participants to understand tourist preferences.  
+- **Role**: Conducted comprehensive data analysis and designed targeted survey questions to enhance user experience.  
 - **Tools**: Python (pandas, numpy, plotly) for visualizations.
 
-
-- **Key Insights**:
-  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/884b73a2-e93b-4fda-bcab-f3b1afc7e3d4" alt="Image 1" width="220" />
   <img src="https://github.com/user-attachments/assets/d68324d3-2f5e-4e9d-b0e3-a331b06cf9f6" alt="Image 2" width="220" />
@@ -51,34 +50,29 @@ Findings indicated that while these applications provide basic informational con
   <img src="https://github.com/user-attachments/assets/752f72c6-2b08-4202-a245-003a26fd1576" alt="Image 4" width="220" />
 </p>
 
-The full survey findings are documented in the [Egyptopia User Needs Survey Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia-user-needs-survey-analysis/report_of_egyptopia_survey_analysis.pdf).
+[View the Egyptopia User Needs Survey Analysis Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia-user-needs-survey-analysis/report_of_egyptopia_survey_analysis.pdf)
 
 ---
 
-## **3.Database Design**
+### **3. Database Design**
 
-- **Objective**: Outlines the schema for storing Egyptopia data.
-
-- **My Role**: Designed the database architecture to ensure efficient data relationships.
+- **Objective**: Outlines the schema for storing Egyptopia data.  
+- **Role**: Designed the database architecture to ensure efficient and scalable data relationships.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b90d3a51-cbb0-40c1-b966-2aeaf71858d4" alt="Egyptopia Screenshot" width="600" />
 </p>
 
-The data architecture for Egyptopia is documented in a visual schema file.  
 [Download Egyptopia Schema (.drawio)](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia_database_schema/egyptopia_schema.drawio)
 
 ---
 
-## **4.Data Collection**
+### **4. Data Collection**
 
-
-- **Objective**: Gathers comprehensive datasets for Egyptopia.
-- **MY Role**: Collected extensive data on tourist attractions, activities, and Egyptian cuisines/beverages, and processed it for database integration.
-- **Notes**: Supports 320 places, 50 food items, 362 activities, and dynamic events.
-
-- **Methods**: Web scraping, CSV storage, Pandas DataFrame.
-
+- **Objective**: Gathers comprehensive datasets for Egyptopia.  
+- **Role**: Collected and processed data on tourist attractions, cultural activities, and Egyptian cuisines/beverages for seamless database integration.  
+- **Notes**: Includes 320 places, 50 food items, 362 activities, and events (static & dynamic).  
+- **Methods**: Web scraping, CSV formatting, and data processing using Pandas.
 
 <table>
   <tr>
@@ -99,17 +93,14 @@ The data architecture for Egyptopia is documented in a visual schema file.
   </tr>
 </table>
 
-
-For a complete overview of the data sources, scraping pipelines, and integration steps, please refer to the  
-[Egyptopia Data Collection Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia_data%20collection_and_processing/Egyptopia%20Data%20Collection%20Report.pdf)
+[View the Egyptopia Data Collection Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia_data%20collection_and_processing/Egyptopia%20Data%20Collection%20Report.pdf)
 
 ---
 
-## **5. Recommendation System**
+### **5. Recommendation System**
 
-- **Objective**: Delivers personalized travel suggestions.
-
-- **My Role**:  
+- **Objective**: Delivers personalized travel suggestions.  
+- **Role**:  
   Engineered a multi-faceted recommendation system that integrates various intelligent techniques to enhance user experience and promote exploration:
 
   - **Content-Based Recommendation System**  
@@ -126,10 +117,9 @@ For a complete overview of the data sources, scraping pipelines, and integration
 
 [View the Egyptopia Recommendation System Report](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia-recommendation-system/egyptopia_recommendation_system_report-compressed.pdf)
 
-
 ---
 
-## **6. Dataset Versions & Storage**
+### **6. Dataset Versions & Storage**
 
 - The [Egyptopia Places Dataset Versions](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/tree/main/egyptopia-recommendation-system/egyptopia_places_dataset_versions) directory contains iterative versions of the places dataset used throughout the development of the recommendation system. This versioning structure ensures traceability and reproducibility of changes made to place-related data.
 
