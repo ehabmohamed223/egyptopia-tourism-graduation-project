@@ -34,11 +34,13 @@ Findings indicated that while these applications provide basic informational con
 ---
 ## **2.Survey Analysis**
 
+
 - **Objective**: Analyzes a survey of 82 participants to understand tourist preferences.
+
+- **My Role**: Conducted comprehensive data analysis and designed targeted survey questions to enhance user experience.
 
 - **Tools**: Python (pandas, numpy, plotly) for visualizations.
 
-- **Role**: Conducted comprehensive data analysis and designed targeted survey questions to enhance user experience.
 
 - **Key Insights**:
   
@@ -57,7 +59,7 @@ The full survey findings are documented in the [Egyptopia User Needs Survey Anal
 
 - **Objective**: Outlines the schema for storing Egyptopia data.
 
-- **Role**: Designed the database architecture to ensure efficient data relationships.
+- **My Role**: Designed the database architecture to ensure efficient data relationships.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b90d3a51-cbb0-40c1-b966-2aeaf71858d4" alt="Egyptopia Screenshot" width="600" />
@@ -70,10 +72,9 @@ The data architecture for Egyptopia is documented in a visual schema file.
 
 ## **4.Data Collection**
 
-- **Role**: Collected extensive data on tourist attractions, activities, and Egyptian cuisines/beverages, and processed it for database integration.
 
 - **Objective**: Gathers comprehensive datasets for Egyptopia.
-
+- **MY Role**: Collected extensive data on tourist attractions, activities, and Egyptian cuisines/beverages, and processed it for database integration.
 - **Notes**: Supports 320 places, 50 food items, 362 activities, and dynamic events.
 
 - **Methods**: Web scraping, CSV storage, Pandas DataFrame.
@@ -108,7 +109,7 @@ For a complete overview of the data sources, scraping pipelines, and integration
 
 - **Objective**: Delivers personalized travel suggestions.
 
-- **Role**:  
+- **My Role**:  
   Engineered a multi-faceted recommendation system that integrates various intelligent techniques to enhance user experience and promote exploration:
 
   - **Content-Based Recommendation System**  
@@ -133,4 +134,3 @@ For a complete overview of the data sources, scraping pipelines, and integration
 - The [Egyptopia Places Dataset Versions](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/tree/main/egyptopia-recommendation-system/egyptopia_places_dataset_versions) directory contains iterative versions of the places dataset used throughout the development of the recommendation system. This versioning structure ensures traceability and reproducibility of changes made to place-related data.
 
 - The full [Egyptopia Datasets Repository](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/tree/main/egyptopia_data%20collection_and_processing/egyptopia_datasets) includes all collected datasets and associated media, such as the 2,377 place images, attraction metadata, food and drink entries, and tourism activity logs.
-
