@@ -127,3 +127,10 @@ For a complete overview of the data sources, scraping pipelines, and integration
 
 
 ---
+
+## **6. Dataset Versions & Storage**
+
+- The [Egyptopia Places Dataset Versions](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/tree/main/egyptopia-recommendation-system/egyptopia_places_dataset_versions) directory contains iterative versions of the places dataset used throughout the development of the recommendation system. This versioning structure ensures traceability and reproducibility of changes made to place-related data.
+
+- The full [Egyptopia Datasets Repository](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/tree/main/egyptopia_data%20collection_and_processing/egyptopia_datasets) includes all collected datasets and associated media, such as the 2,377 place images, attraction metadata, food and drink entries, and tourism activity logs.
+
