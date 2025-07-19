@@ -99,12 +99,12 @@ The data architecture for Egyptopia is documented in a visual schema file.
 </table>
 
 
-
-
+For a complete overview of the data sources, scraping pipelines, and integration steps, please refer to the  
+[Egyptopia Data Collection Report (PDF)](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project/blob/main/egyptopia_data%20collection_and_processing/Egyptopia%20Data%20Collection%20Report.pdf)
 
 ---
 
-## **Recommendation System**
+## **5.Recommendation System**
 
 - **Objective**: Delivers personalized travel suggestions.
 
